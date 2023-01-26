@@ -2,6 +2,18 @@
   - Segundo desafio da Codelândia.
   - Figma: https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=1973%3A2&t=UccmPlxU0VJZnrgg-0
   - Tecnologias utilizadas: Angular/Typescript/CSS.
+  
+# Web:
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/83254316/214973277-42b3bb58-2c57-4d05-8a4f-c494b7eddbdf.png"/>
+</div>
+
+
+# Mobile:
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/83254316/214975400-b60280e3-bb75-4dbc-98c3-e2ecbb46b70d.png"/>
+</div>
 
 # Criação:
   - Utilizei componentes no Angular para cada componente do site.
