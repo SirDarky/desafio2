@@ -10,6 +10,10 @@ h2{
   margin-bottom: 10px;
 }
 
+h4{
+  margin: 0 10vw;
+}
+
 .boots{
   display: flex;
   flex-direction: row;
