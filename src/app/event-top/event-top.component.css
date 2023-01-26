@@ -1,0 +1,10 @@
+p{
+  color: #F9F9F9;
+  background: #181818;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 0;
+  transition: all 1s ease;
+  height: 2vh;
+}
